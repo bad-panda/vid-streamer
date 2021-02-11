@@ -36,6 +36,7 @@ var mimeTypes = {
 	".movie": "video/x-sgi-movie",
 	".mp2": "video/mpeg",
 	".qt": "video/quicktime",
+	".aac": "audio/aac",
 	".mp3": "audio/mpeg",
 	".wav": "audio/x-wav",
 	".aif": "audio/x-aiff",
